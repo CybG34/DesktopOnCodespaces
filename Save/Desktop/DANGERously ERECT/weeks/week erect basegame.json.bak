@@ -1,0 +1,25 @@
+{
+	"storyName": "The Base Condom Layer",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "erect",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		["Bobeepo Erect", "dad", [146, 113, 253]],
+		["Dad Battle Erect", "dad", [146, 113, 253]],
+		["South Erect", "spooky", [34, 51, 68]]
+	],
+	"hideStoryMode": false,
+	"weekName": "Erect Basegame"
+}

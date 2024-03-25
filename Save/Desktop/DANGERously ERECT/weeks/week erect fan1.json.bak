@@ -1,0 +1,26 @@
+{
+	"storyName": "The First Extra Condom Layer",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "erect",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		["Ugh Erect (Kenny)", "tankman", [246, 182, 4]],
+		["Senpai Erect (Kenny)", "senpai-pixel", [255, 120, 191]],
+		["Roses Erect (Leebert", "senpai-pixel", [255, 120, 191]],
+		["Blammed Erect (Cherrykat)", "pico", [148, 22, 83]]
+	],
+	"hideStoryMode": false,
+	"weekName": "Erect Fan One"
+}
